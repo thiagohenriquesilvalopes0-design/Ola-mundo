@@ -1,2 +1,3 @@
-# Ola mundo
-primeiro repósitorio do curo em vídeo
+# Olá, mundo
+primeiro repósitorio do curo em vídeo 
+repositório criado na aula
